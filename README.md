@@ -59,4 +59,6 @@ The following tools were used in this project:
 :-------------------------:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/512px-Google_Play_Store_badge_EN.svg.png" width="100%" >](https://play.google.com/store/apps/details?id=com.dmndev.quranquiz)
 
+<img src="/app_screen.png">
+
   
