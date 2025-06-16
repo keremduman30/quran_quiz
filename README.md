@@ -53,7 +53,7 @@ The following tools were used in this project:
 | Navigation        | Expo Router        |
 | Storage            | @react-native-async-storage/async-storage (Local Storage) |
 | SQLite             | expo-sqlite                                     |
-| Media              | expo-av                                         |
+| Media              | expo-audio                                        |
 
   Play Store        
 :-------------------------:
